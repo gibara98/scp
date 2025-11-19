@@ -1,0 +1,6 @@
+preco_m2 = float(input("Digite o preço por m2:"))
+if preco_m2 < 0:                    # Bloco do IF(indentado)
+    print("ERRO:Preço não pode ser negativo! ")
+else:                               # Bloco do Else (indentado)
+     print("Preço Válido. Calculando...")    
+print("Fim da verficação.")         # (Fora do Bloco)

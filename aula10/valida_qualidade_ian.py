@@ -7,4 +7,4 @@ elif qualidade == 3:
     print("qualidade ruim")
 else:
     print("qualidade inválida")
-print("Fim do programa")
+print("Fim do programa ")

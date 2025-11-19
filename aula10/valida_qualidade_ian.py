@@ -1,0 +1,1 @@
+qualidade = int(input(" Qual a qualidade? "))
